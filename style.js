@@ -13,7 +13,7 @@ const rounte = [
    {
      id: 3,
       name: "johannesbury-sandton",
-       fare: 15
+       fare: 16
       
    } 
   ];
